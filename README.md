@@ -11,7 +11,7 @@ A simple Python project that simulates rolling dice. This project allows users t
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 ```bash
 python dice roller program.py
